@@ -3,7 +3,9 @@ from dotenv import load_dotenv
 from langchain.chains import LLMChain
 from langchain.prompts.prompt import PromptTemplate
 from langchain_openai import ChatOpenAI
-from third_parties.linkedin import scrape_linkedin_profile
+from icebreak.agents.linkedin_lookup_agent import lookup as linkedin_lookup_agent
+from icebreak.config.models import SUMMARY_MODEL
+from icebreak.third_parties.linkedin import scrape_linkedin_profile
 
 load_dotenv()
 
@@ -22,11 +24,14 @@ def main():
 
     summary_prompt_template = PromptTemplate(input_variables=["information"], template=summary_template)
 
-    llm = ChatOpenAI(temperature=0, model="gpt-3.5-turbo")
+    llm = ChatOpenAI(temperature=0, model=SUMMARY_MODEL)
 
     chain = summary_prompt_template | llm
 
     linkedin_info = scrape_linkedin_profile(LINKEDIN_PROFILE, mock=True)
+    
+    linkedin_url = linkedin_lookup_agent("Akshay Saini Linkedin Profile")
+    linkedin_info = scrape_linkedin_profile(linkedin_url)
     
     response = chain.invoke(input={"information": linkedin_info})
 

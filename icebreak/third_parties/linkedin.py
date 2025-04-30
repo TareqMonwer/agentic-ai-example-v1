@@ -10,13 +10,16 @@ def scrape_linkedin_profile(profile_url: str, mock: bool = False):
     Manually scrape information from LinkedIn profile."""
 
     if mock:
+        # read from self-hosted json data
         response = requests.get(profile_url, timeout=10)
     else:
         scrapein_api_key = os.environ.get("SCRAPEIN_API_KEY")
-        scrapein_endpoint = f"https://api.scrapin.io/enrichment/profile"
-        query_params = {"linkedInUrl": profile_url, "apiKey": scrapein_api_key}
 
-        response = requests.get(scrapein_endpoint, params=query_params, timeout=10)
+        scrapein_endpoint = "https://api.scrapin.io/enrichment/profile"
+        
+        querystring = {"apikey": scrapein_api_key, "linkedInUrl": profile_url}
+
+        response = requests.request("GET", scrapein_endpoint, params=querystring)
     
     data = response.json().get("person")
 
