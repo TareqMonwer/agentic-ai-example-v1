@@ -28,7 +28,7 @@ def main():
 
     chain = summary_prompt_template | llm
 
-    linkedin_info = scrape_linkedin_profile(LINKEDIN_PROFILE, mock=True)
+    # linkedin_info = scrape_linkedin_profile(LINKEDIN_PROFILE, mock=True)
     
     linkedin_url = linkedin_lookup_agent("Akshay Saini Linkedin Profile")
     linkedin_info = scrape_linkedin_profile(linkedin_url)
