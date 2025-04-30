@@ -1,0 +1,398 @@
+{
+  "person": {
+    "linkedInUrl": "https://www.linkedin.com/in/akshaymarch7",
+    "firstName": "Akshay",
+    "lastName": "Saini 🚀",
+    "headline": "Founder, NamasteDev | Teacher | YouTuber (1.7Million+)",
+    "location": "Dehradun, Uttarakhand, India",
+    "summary": "Engineer by profession and a Teacher by heart. ❤️\nBuilding NamasteDev, while teaching on my Youtube channel.\nI make Coding & Interview preparation videos. 😇\nCheck out my channel- https://www.youtube.com/akshaymarch7\n\nI keep posting my knowledge and life experiences that might help others on LinkedIn. \nConsider Following my profile if you like it. 😇\n\nIf you're looking out for brand collaborations/promotions, write to me at akshaysaini.in@gmail.com\n\nTechnologies:\n- Javascript, Fusion, React, Angular, Vue, Weex, jQuery, PWA, AMP, GraphQL, Jest, Flow.js\n- Node, Java, Ruby on Rails\n\nAlso interested in:\n- Digital Marketing, SEO, SMM, Blogging, Web Security, Wordpress\n\nMy Youtube Channel Link - https://www.youtube.com/akshaymarch7",
+    "photoUrl": "https://media.licdn.com/dms/image/v2/D4D03AQEdHAzKVRCM8g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1697706616770?e=1751500800&v=beta&t=QAZWlZFhxwWa94DBvEOoPVMujkHkyxtmiS-udtorySw",
+    "backgroundUrl": "https://media.licdn.com/dms/image/v2/C4D16AQF1e65ZebVLkQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1614091694088?e=1751500800&v=beta&t=rOkBQuxPUCcepa2eGfbDB0e1hM1vraFThMi467MIwho",
+    "openToWork": false,
+    "premium": true,
+    "showVerificationBadge": true,
+    "creationDate": {
+      "month": 10,
+      "year": 2012
+    },
+    "followerCount": 615040,
+    "positions": {
+      "positionsCount": 6,
+      "positionHistory": [
+        {
+          "title": "Founder",
+          "companyName": "NamasteDev.com",
+          "companyLocation": "India",
+          "description": "Creating an impact in the life of developers, one step at a time. ❤️",
+          "startEndDate": {
+            "start": {
+              "month": 5,
+              "year": 2022
+            },
+            "end": null
+          },
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQFd9H6cxFC3wQ/company-logo_400_400/company-logo_400_400/0/1630549313166?e=1751500800&v=beta&t=nfewAWMfHPDtzc-i6gazPPCNDMBhcBoQeu86zWvEES0",
+          "linkedInUrl": "https://www.linkedin.com/company/70916195/",
+          "linkedInId": "70916195"
+        },
+        {
+          "title": "Teacher",
+          "companyName": "YouTube",
+          "companyLocation": "India",
+          "description": "Sharing my knowledge by creating Coding and Interview preparation videos.\nCheck out my channel- https://www.youtube.com/akshaymarch7",
+          "startEndDate": {
+            "start": {
+              "month": 2,
+              "year": 2019
+            },
+            "end": null
+          },
+          "contractType": "Part-time",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGhPeU5u8lAKQ/company-logo_400_400/B4EZZi8O5PHQAg-/0/1745416679708/youtube_logo?e=1751500800&v=beta&t=q59fZ3mNHNRC9r0-0ahAY0-nJFlj1zQwRLgHnNftj_Q",
+          "linkedInUrl": "https://www.linkedin.com/company/16140/",
+          "linkedInId": "16140"
+        },
+        {
+          "title": "Software Engineer",
+          "companyName": "Uber",
+          "companyLocation": "Hyderabad Area, India",
+          "description": "Built multiple products for Finance Engineering, Uber\n- Accounting Rule Portal\n- One Finance Platform\n- AION - Secure Transmission Pipeline\n- Revenue Review Platform\n- Month Close UI\n- uEconomics\n- Leaderboard Panel\n\nTech Stack: \n- GoLang, Schemaless, Kafka\n- Fusion.js, Node.js, React.js\n- GraphQL, Base Web, Flow, Jest",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 2019
+            },
+            "end": {
+              "month": 5,
+              "year": 2022
+            }
+          },
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_400_400/company-logo_400_400/0/1630552741617/uber_com_logo?e=1751500800&v=beta&t=-wIxo1oIhZJUZ1E5ak_VqwiU4_XvFgYU2DaerPm61mk",
+          "linkedInUrl": "https://www.linkedin.com/company/1815218/",
+          "linkedInId": "1815218"
+        },
+        {
+          "title": "Software Engineer",
+          "companyName": "Paytm",
+          "companyLocation": "Bengaluru Area, India",
+          "description": "- Built User Interface for Forex at Paytm single-handedly, from scratch.\n- Primarily used React along with redux for web and Weex along with Vue for developing cross-platform mobile app.\n",
+          "startEndDate": {
+            "start": {
+              "month": 3,
+              "year": 2018
+            },
+            "end": {
+              "month": 1,
+              "year": 2019
+            }
+          },
+          "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQGimDr9TQiNUA/company-logo_100_100/B56ZYJb2xuHEAc-/0/1743915020166?e=1751500800&v=beta&t=nS1R2oMNvR6oT20xFJ5ACjZrQwBpo9JGkmaO2Vth-9Q",
+          "linkedInUrl": "https://www.linkedin.com/company/2340144/",
+          "linkedInId": "2340144"
+        },
+        {
+          "title": "Software Engineer",
+          "companyName": "Lendingkart",
+          "companyLocation": "Bengaluru Area, India",
+          "description": "- Worked in Customer Experience team to improve the onboarding flow\n- Conversion rate was increased from 4% to 10.6%\n- Designed customer tracking service Khabri to integrate with Mixpanel and analytics tools\n- Worked on SEO enhancements and jiffy loading model in frontend\n- Built a product from scratch and developed strategies to scale it seamlessly\n- Worked as a Full Stack Developer at KountMoney\n- KountMoney was an online lending marketplace acquired by Lendingkart in September 2016\n- Three-person tech team developed a fin-tech product, serving customers all across India",
+          "startEndDate": {
+            "start": {
+              "month": 8,
+              "year": 2016
+            },
+            "end": {
+              "month": 3,
+              "year": 2018
+            }
+          },
+          "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQHIsGRN0fIWrg/company-logo_400_400/company-logo_400_400/0/1697199314785/lendingkart_logo?e=1751500800&v=beta&t=sfaUHJ0BM6eMWZ6AxdkChtXBM-p5DIvMDdXLuNey82E",
+          "linkedInUrl": "https://www.linkedin.com/company/9195040/",
+          "linkedInId": "9195040"
+        },
+        {
+          "title": "Founder & CEO",
+          "companyName": "Boiling News",
+          "companyLocation": "Jaipur Area, India",
+          "description": "- Started an online news portal in 3rd year of graduation right from college hostel\n- Built a strong team of 20+ people and scaled to 10+ niche in just a few months\n- Designed a strategy to get 100% organic traffic with almost Zero investment model",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 2015
+            },
+            "end": {
+              "month": 1,
+              "year": 2016
+            }
+          },
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQEcpC3glNtnxA/company-logo_400_400/company-logo_400_400/0/1631307369737?e=1751500800&v=beta&t=OGBeH2ddYeZtevl0QWwBBExJ54dx_ygxvGdOcWYPKmA",
+          "linkedInUrl": "https://www.linkedin.com/company/13199513/",
+          "linkedInId": "13199513"
+        }
+      ]
+    },
+    "schools": {
+      "educationsCount": 2,
+      "educationHistory": [
+        {
+          "degreeName": "Bachelor of Technology (B.Tech.)",
+          "fieldOfStudy": "Computer Science Engineering",
+          "linkedInUrl": "https://www.linkedin.com/company/9221393/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/C510BAQHGCXHybaxsYA/company-logo_400_400/company-logo_400_400/0/1630616349300?e=1751500800&v=beta&t=ZhumXKdDZhDkMycA-bCseoId7UQyw1ksoFtj3yEAYg8",
+          "schoolName": "Manipal University Jaipur",
+          "startEndDate": {
+            "start": {
+              "month": null,
+              "year": null
+            },
+            "end": null
+          }
+        },
+        {
+          "degreeName": "ICSE Board",
+          "fieldOfStudy": "Mathematics and Computer Science",
+          "linkedInUrl": "https://www.linkedin.com/search/results/all/?keywords=St%2E+Jude%27s+School%2C+Dehradun",
+          "schoolLogo": null,
+          "schoolName": "St. Jude's School, Dehradun",
+          "startEndDate": {
+            "start": {
+              "month": null,
+              "year": null
+            },
+            "end": null
+          }
+        }
+      ]
+    },
+    "skills": [
+      "JavaScript",
+      "React.js",
+      "Entrepreneurship",
+      "Business",
+      "Leadership",
+      "Technical Architecture",
+      "Team Leadership",
+      "Technical Leadership",
+      "Web Development",
+      "Programming",
+      "SEO",
+      "Web Design",
+      "Web Designing",
+      "Blogging",
+      "Online Marketing",
+      "Search Engine Optimization (SEO)",
+      "Web Applications",
+      "SEO Training",
+      "Web Marketing",
+      "Content Management",
+      "Data Structures",
+      "Algorithms",
+      "AngularJS",
+      "redux",
+      "HTML",
+      "Java",
+      "C",
+      "C++",
+      "MySQL",
+      "Core Java",
+      "CSS",
+      "HTML5",
+      "C/ C++",
+      "Cascading Style Sheets (CSS)",
+      "Microsoft Office",
+      "jQuery",
+      "Spring Framework",
+      "Java Enterprise Edition",
+      "Amazon Web Services (AWS)",
+      "Redux.js"
+    ],
+    "recommendations": {
+      "recommendationsCount": 4,
+      "recommendationHistory": [
+        {
+          "caption": "July 31, 2020, Mukesh managed Akshay directly",
+          "description": "Akshay is an energy powerhouse every manager would love to have in his/her team! He is a rockstar engineer and was a great influence in the Lendingkart team. His superlative technical skill and teamwork make him a great engineer! I would love to have him in my team again!",
+          "authorFullname": "Mukesh Singh",
+          "authorUrl": "https://www.linkedin.com/in/mksingh"
+        },
+        {
+          "caption": "March 15, 2018, Ahsan managed Akshay directly",
+          "description": "​​Akshay is a sincere & hard working guy who finds his way through most of challenging projects. He is a quick learner and aspires to reach newer heights all the time.  He is a great person to work with and always try to build great solutions. \nHe worked in Customer Exeperience team ​for Lendingkart ​where he built products from scratch. He is self driven and ​focuses on ​developing ​quality​ end​ product while meeting the deadlines.​ ​He will be an asset to any organization, wishing him the very best for all his professional endeavors.​",
+          "authorFullname": "Ahsan J.",
+          "authorUrl": "https://www.linkedin.com/in/ahsanjaved"
+        },
+        {
+          "caption": "February 6, 2018, Deepak managed Akshay directly",
+          "description": "Akshay is a highly enthusiastic engineer who can quickly learn new technologies. He has a huge potential to build great products from scratch. He respectfully challenge decisions and insist on high standards. Overall he's a great team player and an assertive go-getter.",
+          "authorFullname": "Deepak M.",
+          "authorUrl": "https://www.linkedin.com/in/deepakmodak"
+        },
+        {
+          "caption": "August 10, 2016, Dr. Sumit was Akshay’s teacher",
+          "description": "Akshay is more tasks oriented, good web developer with enough potential to develop a business from scratch. also team work is one of the asset which make him more successful in the recent technical endeavors.",
+          "authorFullname": "Dr. Sumit Srivastava",
+          "authorUrl": "https://www.linkedin.com/in/dr-sumit-srivastava-7157aaa8"
+        }
+      ]
+    },
+    "certifications": {
+      "certificationsCount": 4,
+      "certificationHistory": [
+        {
+          "name": "Tech Mentor",
+          "organizationName": "YouTube",
+          "organizationUrl": "https://www.linkedin.com/company/16140/",
+          "issuedDate": "Issued Feb 2019"
+        },
+        {
+          "name": "EMC Academic Associate, Data Science and Big Data Analytics",
+          "organizationName": "Dell EMC",
+          "organizationUrl": null,
+          "issuedDate": "Issued Dec 2015"
+        },
+        {
+          "name": "EMC Academic Associate, Cloud Infrastructure and Services",
+          "organizationName": "Dell EMC",
+          "organizationUrl": null,
+          "issuedDate": "Issued Apr 2015"
+        },
+        {
+          "name": "Core Java Technology",
+          "organizationName": "Hewlett-Packard Educational Services",
+          "organizationUrl": null,
+          "issuedDate": "Issued Jun 2014"
+        }
+      ]
+    },
+    "testScores": {
+      "testScoresCount": 11,
+      "testScoreHistory": [
+        {
+          "testTitle": "CSE - Semester 1",
+          "score": "Score: 7.6 GPA"
+        },
+        {
+          "testTitle": "CSE - Semester 2",
+          "score": "Score: 7.4 GPA"
+        },
+        {
+          "testTitle": "CSE - Semester 3",
+          "score": "Score: 8.38 GPA"
+        },
+        {
+          "testTitle": "CSE - Semester 4",
+          "score": "Score: 9.08 GPA"
+        },
+        {
+          "testTitle": "CSE - Semester 5",
+          "score": "Score: 9.62 GPA"
+        },
+        {
+          "testTitle": "CSE - Semester 6",
+          "score": "Score: 9.42 GPA"
+        },
+        {
+          "testTitle": "CSE - Semester 7",
+          "score": "Score: 9.88 GPA"
+        },
+        {
+          "testTitle": "CSE - Semester 8",
+          "score": "Score: 10 GPA"
+        },
+        {
+          "testTitle": "High School - Science Stream",
+          "score": "Score: 86%"
+        },
+        {
+          "testTitle": "Intermediate - with Physics, Chemistry, Maths and Computer Science",
+          "score": "Score: 84%"
+        },
+        {
+          "testTitle": "NCAT - 2014",
+          "score": "Score: 96.2 Percentile"
+        }
+      ]
+    },
+    "volunteeringExperiences": {
+      "volunteeringExperiencesCount": 8,
+      "volunteeringExperienceHistory": [
+        {
+          "organizationName": "Manipal University Jaipur",
+          "role": "Student Council Member",
+          "period": "Jan 2014 - Present · 11 yrs 4 mos"
+        },
+        {
+          "organizationName": "IEEE Student Branch Manipal",
+          "role": "Treasurer and Webmaster",
+          "cause": "Education",
+          "period": "Aug 2014 - Jul 2016 · 2 yrs"
+        },
+        {
+          "organizationName": "Green Club - Manipal University, Jaipur",
+          "role": "Green Club Committee Member",
+          "cause": "Environment",
+          "period": "Sep 2012 - Aug 2016 · 4 yrs"
+        },
+        {
+          "organizationName": "Manipal University Jaipur",
+          "role": "Mess Committee Member",
+          "period": "Aug 2013 - Sep 2014 · 1 yr 2 mos"
+        },
+        {
+          "organizationName": "TechIdeate'14 - Manipal University, Jaipur",
+          "role": "Hospitality, Sponsorship and Catering Committee",
+          "cause": "Education",
+          "period": "Feb 2014 - Present · 11 yrs 3 mos"
+        },
+        {
+          "organizationName": "TechIdeate'14 - Manipal University, Jaipur",
+          "role": "Student Co-ordinator of \"Codaddiction - a Programming Competition\"",
+          "cause": "Education",
+          "period": "Feb 2014 - Present · 11 yrs 3 mos"
+        },
+        {
+          "organizationName": "Green Club - Manipal University, Jaipur",
+          "role": "Virtual Blood Bank",
+          "cause": "Health",
+          "period": "Jan 2013 - Present · 12 yrs 4 mos"
+        },
+        {
+          "organizationName": "Techkriti, Indian Institute of Technology Kanpur",
+          "role": "Campus Ambassador",
+          "cause": "Education",
+          "period": "Oct 2014 - Present · 10 yrs 7 mos"
+        }
+      ]
+    }
+  },
+  "company": {
+    "name": "NamasteDev.com",
+    "universalName": "namastedev",
+    "linkedInUrl": "https://www.linkedin.com/company/70916195",
+    "employeeCount": 14,
+    "followerCount": 28238,
+    "employeeCountRange": {
+      "start": 2,
+      "end": 10
+    },
+    "websiteUrl": "https://namastedev.com/",
+    "tagline": "NamasteDev.com is an initiative for sharing our knowledge with the entire tech community. 🙏",
+    "description": "NamasteDev is dedicated to helping aspiring learners and coders innovate using modern technology and transforming them into efficient front-end and back-end developers. The founder, Akshay Saini, believes in the 'learn by building' principle and focuses on practical, hands-on learning experiences for learners.\n\nNamasteDev offers on-demand learning, expert guidance, certificates upon completion, access to a closed premium community, project-based learning, high-quality videos, assignments, and a comprehensive curriculum. The platform aims to nurture talent and foster innovation, ensuring that developers are equipped to meet the evolving demands of the tech industry and drive the nation forward in the digital age.",
+    "industry": "E-Learning Providers",
+    "phone": null,
+    "specialities": [],
+    "headquarter": {
+      "city": "Dehradun",
+      "country": "IN",
+      "postalCode": null,
+      "geographicArea": "Uttarakhand",
+      "street1": "Dehradun Road",
+      "street2": null
+    },
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFd9H6cxFC3wQ/company-logo_400_400/company-logo_400_400/0/1630549313166?e=1751500800&v=beta&t=nfewAWMfHPDtzc-i6gazPPCNDMBhcBoQeu86zWvEES0",
+    "foundedOn": {
+      "year": 2022
+    },
+    "fundingData": null,
+    "backgroundUrl": "https://media.licdn.com/dms/image/v2/D4D1BAQEwzJJurOt6oA/company-background_10000/company-background_10000/0/1670835620089/namastedev_cover?e=1746507600&v=beta&t=b46_jSXcIIIFI7jfET226sAtnDKBL6DiHQrVQzgSpoU"
+  }
+}
