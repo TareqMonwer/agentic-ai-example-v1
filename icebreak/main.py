@@ -4,13 +4,13 @@ from langchain_openai import ChatOpenAI
 from icebreak.agents.linkedin_lookup_agent import lookup as linkedin_lookup_agent
 from icebreak.config.models import SUMMARY_MODEL
 from icebreak.third_parties.linkedin import scrape_linkedin_profile
-from icebreak.output_parsers import profile_summary_parser
+from icebreak.output_parsers import ProfileSummary, profile_summary_parser
 load_dotenv()
 
 
 LINKEDIN_PROFILE = "https://gist.githubusercontent.com/TareqMonwer/f2bd6927aff7caa6efea1f67481c8641/raw/15d48642c7beab488bef35c61c044c3fde4c741e/profile_1.json"
 
-def linkedin_profile_facts(profile_name_query: str, mock: bool):
+def linkedin_profile_facts(profile_name_query: str, mock: bool) -> ProfileSummary:
     summary_template = """
     Given the Linkedin information {information} about person I want you to create:
     1. A short summary
