@@ -1,6 +1,4 @@
-import os
 from dotenv import load_dotenv
-from langchain.chains import LLMChain
 from langchain.prompts.prompt import PromptTemplate
 from langchain_openai import ChatOpenAI
 from icebreak.agents.linkedin_lookup_agent import lookup as linkedin_lookup_agent
@@ -12,10 +10,7 @@ load_dotenv()
 
 LINKEDIN_PROFILE = "https://gist.githubusercontent.com/TareqMonwer/f2bd6927aff7caa6efea1f67481c8641/raw/15d48642c7beab488bef35c61c044c3fde4c741e/profile_1.json"
 
-def main():
-    print("Hello from icebreak!")
-    openai_key = os.environ.get("OPENAI_API_KEY", "")
-
+def linkedin_profile_facts(profile_name_query: str, mock: bool):
     summary_template = """
     Given the Linkedin information {information} about person I want you to create:
     1. A short summary
@@ -28,10 +23,11 @@ def main():
 
     chain = summary_prompt_template | llm
 
-    # linkedin_info = scrape_linkedin_profile(LINKEDIN_PROFILE, mock=True)
-    
-    linkedin_url = linkedin_lookup_agent("Akshay Saini Linkedin Profile")
-    linkedin_info = scrape_linkedin_profile(linkedin_url)
+    if mock:
+        linkedin_info = scrape_linkedin_profile(LINKEDIN_PROFILE, mock=True)
+    else:
+        linkedin_url = linkedin_lookup_agent(profile_name_query)
+        linkedin_info = scrape_linkedin_profile(linkedin_url)
     
     response = chain.invoke(input={"information": linkedin_info})
 
@@ -39,4 +35,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    linkedin_profile_facts("Akshay Saini Linkedin Profile", False)
